@@ -1,13 +1,13 @@
 # Static Test Stand
 A test stand to measure a force-time curve for small rocket motors. This is designed for collecting data on small A-class motors. 
 
-## Onshpae Link
-The files are available for download here on the github or you can use the onshape document.
+## Onshape Link
+The files are available for download here on the Github or you can use the Onshape document.
 https://cad.onshape.com/documents/dc1ea5a17a6875eff156904f/w/99ff55d2b2f774a85729f015/e/69d40390ca9ec5910e336e51?renderMode=0&uiState=6a68344a8ce625604a90d9ac
 
 ## Build Instructions
 1. Obtain all materials
-  - 3D Print Adapter Square and motor mount.
+  - 3D Print Adapter Square, Blast Shield and Motor Mount.
   - 3 10 Hole GoBilda U-Channel and 2 GoBilda quad blocks.
   - 16 M4 Screws and Bolts
   - Raspberry PI Pico
@@ -27,6 +27,10 @@ Follow this diagram. Made in Cirkit Designer. Link: https://app.cirkitdesigner.c
    <img width="1005" height="708" alt="image" src="https://github.com/user-attachments/assets/b59e72fa-a81b-4666-80e4-89f1438e054d" />
   - Screw in the Motor Mount to the Load Cell
     <img width="1017" height="720" alt="image" src="https://github.com/user-attachments/assets/1049cc30-246e-485f-8817-2cc30aef28e6" />
+  - Place electronic system in corner of U-Channel
+   <img width="591" height="341" alt="image" src="https://github.com/user-attachments/assets/2e4d2adb-516b-4ece-a6ae-5155c5a026ba" />
+   - Secure the sheild with 4 M4 Screws
+     <img width="940" height="556" alt="image" src="https://github.com/user-attachments/assets/051bcb20-fe29-4b4c-a3c9-d18d1d3e58a0" />
 
 ## Test Instructions
 Download the code from the code folder and upload it using Thonny.
