@@ -2,6 +2,9 @@
 A test stand to measure a force-time curve for small rocket motors. This is designed for collecting data on small A-class motors. 
 <img width="1112" height="707" alt="E4E2425F-2D15-4822-8BE2-3199BAA6618C_1_105_c" src="https://github.com/user-attachments/assets/60aec52e-e670-4c32-a180-4e50919aa795" />
 
+## Demo Video
+https://www.youtube.com/shorts/8ubcsmMtRxc
+
 ## Onshape Link
 The files are available for download here on the Github or you can use the Onshape document.
 https://cad.onshape.com/documents/dc1ea5a17a6875eff156904f/w/99ff55d2b2f774a85729f015/e/69d40390ca9ec5910e336e51?renderMode=0&uiState=6a68344a8ce625604a90d9ac
